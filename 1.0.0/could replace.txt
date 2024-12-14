@@ -1,0 +1,5 @@
+you could also count the charraters using:
+word_legnth = len(hangman_word)
+
+in in a if does the same as in a for loop until it knows if its true or false and then just does if as normaly
+if i only need to check for false then make it true before checking and when it becomes false then stop

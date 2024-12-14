@@ -1,0 +1,22 @@
+hangman word:
+    het word dat geraden moet worden.
+word_legnth:
+    lengte van het woord
+characters:
+    de huidige letter die wordt gebruikt in vergelijking met hangman_word
+word_legnth:
+    counts the word_legnth
+word_descovered:
+    laat zien wat er al is gevonden van het woord
+guessed_letters:
+    houd bij welke goede letters er al geraden zijn.
+input_letter:
+    de letter die is ingevoerd door de speler
+is_letter_in:
+    de huidige letter waarvan word gekeken of de letter in het woord zit
+letter_in_word:
+    houd bij of de letter in het woord zit.
+letter:
+    de huidihe letter die word vergeleken met de al eerder goed geraden letters
+descovered_letter:
+    zegt of de huidige letter al in hangman woord al eerder geraden is.
